@@ -10,24 +10,24 @@ The AZ-104 exam validates the skills required to manage Azure identities, govern
 
 ✅ Skills Covered
 
-Governance & Compliance
+- Governance & Compliance
 
-Azure Resources
+- Azure Resources
 
-Identity & Access Management
+- Identity & Access Management
 
-Virtual Networking
+- Virtual Networking
 
-Intersite Connectivity
+- Intersite Connectivity
 
-Network Traffic Management
+- Network Traffic Management
 
-Azure Storage
+- Azure Storage
 
-Azure Virtual Machines
+- Azure Virtual Machines
 
-PaaS Compute Options
+- PaaS Compute Options
 
-Data Protection
+- Data Protection
 
-Monitoring & Reporting
+- Monitoring & Reporting
